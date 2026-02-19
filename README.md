@@ -25,10 +25,9 @@ that's usually where the interesting problems live.
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BranithLynn&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0a0a0f&title_color=c084fc&icon_color=a78bfa&text_color=e2d9f3&ring_color=7c3aed" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BranithLynn&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=c084fc&text_color=e2d9f3&langs_count=6" height="160"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BranithLynn&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 </div>
+
 
 <br/>
 
